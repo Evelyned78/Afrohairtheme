@@ -1,6 +1,6 @@
 
 
-<footer class="footer">
+<footer>
     qlrghmlrekgnqmlfdjngmrlngmdlfkgnj
 </footer>
 </body>
